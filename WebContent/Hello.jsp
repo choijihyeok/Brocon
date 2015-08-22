@@ -11,7 +11,7 @@ Date now = new Date();
 %>
 </head>
 <body>
-몇시일까요?:
+몇시일까요?
 <%=now %>
 </body>
 </html>
